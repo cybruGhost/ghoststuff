@@ -6,7 +6,7 @@
     "show": true,
     "show_image": true,
     "show_text": true,
-    "version": "v1.9.9",
+    "version": "v1.9.8",
     "image_url": "https://your-direct-image-url.png",
     "btn_title": "Update",
     "is_force": false,
