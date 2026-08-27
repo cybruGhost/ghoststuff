@@ -3,7 +3,7 @@
     "url": "https://github.com/cybruGhost/Cubic-Music/releases/latest",
     "title": "Cubic Music Update",
     "contents": "A new version of Cubic Music is available. Update now for the latest improvements and fixes.",
-    "show": true,
+    "show": false,
     "show_image": true,
     "show_text": true,
     "version": "v1.9.8",
