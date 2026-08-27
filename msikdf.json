@@ -1,10 +1,16 @@
 {
   "notification": {
-    "url": "",
-    "title": "",
-    "contents": "",
-    "show": false,
+    "url": "https://github.com/cybruGhost/Cubic-Music/releases/latest",
+    "title": "Cubic Music Update",
+    "contents": "A new version of Cubic Music is available. Update now for the latest improvements and fixes.",
+    "show": true,
     "show_image": true,
-    "show_text": true
+    "show_text": true,
+    "version": "v1.9.9",
+    "image_url": "https://your-direct-image-url.png",
+    "btn_title": "Update",
+    "is_force": false,
+    "force_update": false,
+    "isUpdate": true
   }
 }
