@@ -1,0 +1,10 @@
+{
+  "notification": {
+    "url": "",
+    "title": "",
+    "contents": "",
+    "show": false,
+    "show_image": true,
+    "show_text": true
+  }
+}
