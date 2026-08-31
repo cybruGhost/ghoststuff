@@ -3,7 +3,7 @@
     "url": "https://cyberghost-shop.fourthwall.com/",
     "title": "Support Cubic Music ❤️",
     "contents": "Cubic Music takes a lot of time and resources to build and maintain. If you enjoy the app, consider supporting development with a small donation.",
-    "show": false,
+    "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v1.9.8",
